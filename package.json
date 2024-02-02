@@ -1,0 +1,17 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "a json file that contains meta data about the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priya",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.1",
+    "underscore": "^1.13.6"
+  }
+}
+
+
